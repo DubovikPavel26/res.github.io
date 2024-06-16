@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DubovikPavel26/res.github.io.git/static/css/main.e75dd729.css",
+    "main.js": "/DubovikPavel26/res.github.io.git/static/js/main.3431270f.js",
+    "index.html": "/DubovikPavel26/res.github.io.git/index.html",
+    "main.e75dd729.css.map": "/DubovikPavel26/res.github.io.git/static/css/main.e75dd729.css.map",
+    "main.3431270f.js.map": "/DubovikPavel26/res.github.io.git/static/js/main.3431270f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75dd729.css",
+    "static/js/main.3431270f.js"
+  ]
+}
